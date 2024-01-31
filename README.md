@@ -18,8 +18,7 @@ discover the fascinating details that make this sport a true spectacle on ice.
 
 ## Installation
 
-Open the web app through our link here:
-file:///Users/tuckerkillian/Desktop/Documents/Bootcamp1/group-project-1/index.html
+Open the web app through our link here: [https://timpyjoe.github.io/Hockey-Trivia/](https://timpyjoe.github.io/Hockey-Trivia/)
 
 Then just press play!
 
@@ -29,7 +28,7 @@ Then just press play!
 2. You are given a Hockey Game Score.
 3. You make a guess of which two teams played in that game.
 4. If it's wrong, you will get some hints.
-5. you get 5 chances to guess.
+5. You get 5 chances to guess.
 
 ## Credits
 
@@ -56,17 +55,12 @@ https://www.nhl.com
 Google Maps API:
 https://www.google.com/maps
 
-## License
-
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-
----
 
 ## Features
 
 As a user you can:
 
-1. access the NHL website by clicking NHL icon.
-2. access the leader board of top players.
-3. use google maps as a hint to where the game was played.
+1. Access the NHL website by clicking NHL icon.
+2. Access the leader board of top players.
+3. Use google maps as a hint to where the game was played.
 
